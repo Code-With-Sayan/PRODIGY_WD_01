@@ -56,4 +56,4 @@ This task helped me strengthen my skills in:
 
 ### 🚀 Let's connect!
 
-Feel free to explore my other projects at [GitHub: Titli-Purkait](https://github.com/Code-With-Sayan)
+Feel free to explore my other projects at [GitHub:Code-With-Sayan](https://github.com/Code-With-Sayan)
